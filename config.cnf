@@ -1,0 +1,4 @@
+[client]
+user = backup
+password = abc123456
+host = localhost
